@@ -5,6 +5,6 @@ using namespace std;
 int main() {
 	cout << "Getting started" << endl;
 	//this is a test
-
-	return(0);
+	//from clay computer
+	return 0;
 }
