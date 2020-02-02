@@ -139,6 +139,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CS330-20S-P1-Stewart-Hooper-SimpleMovement.cpp" />
+    <ClCompile Include="SimpleMovementHS_Alg.cpp" />
+    <ClCompile Include="SimpleMovementNE_Alg.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SimpleMovementHS_Alg.h" />
+    <ClInclude Include="SimpleMovementNE_ALG.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
